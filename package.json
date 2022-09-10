@@ -1,0 +1,14 @@
+{
+  "name": "node-js-file-system",
+  "version": "1.0.0",
+  "description": "node using time stramp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "author": "rhagavi",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^2.4.1"
+  }
+}
